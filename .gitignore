@@ -1,0 +1,14 @@
+*.pyc
+*~
+__pycache__
+*.zip
+.DS_Store
+.idea
+.git
+chart/
+img/
+Untitled.ipynb
+*.html
+*.pdf
+
+
